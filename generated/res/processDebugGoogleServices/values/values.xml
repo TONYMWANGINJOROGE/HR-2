@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">340818258262</string>
+    <string name="google_api_key" translatable="false">AIzaSyDOvcp2MFOOJaEL-nvUT4IDBc0s1eUBubE</string>
+    <string name="google_app_id" translatable="false">1:340818258262:android:240e1714f90fd2a03e0ef7</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDOvcp2MFOOJaEL-nvUT4IDBc0s1eUBubE</string>
+    <string name="google_storage_bucket" translatable="false">brabas-8ed68.appspot.com</string>
+    <string name="project_id" translatable="false">brabas-8ed68</string>
+</resources>

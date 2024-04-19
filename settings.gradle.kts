@@ -19,5 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "AndroidProjectOne"
+rootProject.name = "Brabas"
 include(":app")
+ 
